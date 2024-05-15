@@ -1,0 +1,40 @@
+Abbrevations In Tech:-
+KT- Knowledge Transfer 
+RCA- Root Cause Analysis
+POC- Proof of Concept
+SPOC- Single Point of Contact
+RWR- Release When Ready
+PR- Pull Request
+DR- Disaster Recovery 
+IDP- Individual Development Plan
+OKR- Objectives and Key Results
+BW- Bandwidth 
+SP- Story Pointers
+CR- Change Request
+MOM- Minutes of meeting
+SLA- Service Level Agreement
+RFS- Ready for Service
+EOD- end of the day
+BRB- be right back
+LGTM- looks good to me
+FYI- for your information 
+TBD- to be decided 
+SME- subject matter expert 
+B2B- business to business 
+RFP- request for proposal 
+CAGR- compound annual growth rate 
+POC- proof of concept
+ETA- estimated time of arrival 
+QA- quality assurance 
+UI/UX- user interface/experience 
+CRM- customer relationships management 
+BRD- Business Requirement Documentation
+FSD- Functional Specification Document
+MR- Merge Request
+CU- cumulative update 
+GA- generally available 
+CR- Change request / code review 
+DA- Dev Assist 
+PBI- product backlog item
+PTO- personal time off 
+PFA- please find attached
